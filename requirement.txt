@@ -1,0 +1,6 @@
+langgraph
+langsmith
+langchain_anthropic
+black
+pylint
+IPython
