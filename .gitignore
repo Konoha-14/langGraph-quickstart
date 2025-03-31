@@ -1,2 +1,5 @@
 
 .qodo
+__pychache__
+.ipynb_checkpoints
+src/.ipynb_checkpoints
